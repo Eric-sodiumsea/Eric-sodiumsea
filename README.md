@@ -9,7 +9,7 @@
 ## 🔧 技术栈
 
 - **编程语言**：Python、C/C++、Java、JavaScript、R
-- **框架与库**：React, Django, TensorFlow、SpringBoot
+- **框架与库**：React、Django、TensorFlow、SpringBoot
 - **工具与平台**：GitHub、Gitee
 
 ## 🚀 主要项目
