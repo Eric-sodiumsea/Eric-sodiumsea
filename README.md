@@ -2,27 +2,27 @@
 
 ## 👋 关于我
 
-- 🌟 **当前关注**: Data Science
-- 📚 **学习目标**: 数据分析、数据挖掘、数据开发、机器学习、大数据搜索推荐算法
-- 💬 **联系我**: 291966592@qq.com
+- 🌟 **当前关注**：Data Science
+- 📚 **学习目标**：数据分析、数据挖掘、数据开发、机器学习、大数据搜索推荐算法
+- 💬 **联系我**：291966592@qq.com
 
 ## 🔧 技术栈
 
-- **编程语言**: Python、C/C++、Java、JavaScript、R
-- **框架与库**: React, Django, TensorFlow、SpringBoot
-- **工具与平台**: GitHub、Gitee
+- **编程语言**：Python、C/C++、Java、JavaScript、R
+- **框架与库**：React, Django, TensorFlow、SpringBoot
+- **工具与平台**：GitHub、Gitee
 
 ## 🚀 主要项目
 
-- **[SZTU-Tecent-miniProject-qrcode](https://github.com/Eric-sodiumsea/SZTU-Tecent-miniProject-qrcode)**
+- **[github: SZTU-Tecent-miniProject-qrcode](https://github.com/Eric-sodiumsea/SZTU-Tecent-miniProject-qrcode)**
 
 ## 🌟 开源贡献
 
-- **[screenshot-shareqrcode](https://www.npmjs.com/package/screenshot-shareqrcode)**
+- **[npmjs: screenshot-shareqrcode](https://www.npmjs.com/package/screenshot-shareqrcode)**
 
 ## 📝 博客
 
-- **[CSDN-背锅切图仔](https://blog.csdn.net/weixin_51250927?spm=1000.2115.3001.5343)**
+- **[CSDN: 背锅切图仔](https://blog.csdn.net/weixin_51250927?spm=1000.2115.3001.5343)**
 
 ## 📈 统计信息
 
