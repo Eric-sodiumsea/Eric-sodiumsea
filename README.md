@@ -3,13 +3,13 @@
 ## 👋 关于我
 
 - 🌟 **当前关注**：Data Science
-- 📚 **学习目标**：数据分析、数据挖掘、数据开发、机器学习、大数据搜索推荐算法
-- 💬 **联系我**：72405679@cityu-dg.edu.cn
+- 📚 **学习目标**：Java 后端开发、Web 前端开发、数据分析、机器学习
+- 💬 **联系我**：13632730984@163.com or 72405679@cityu-dg.edu.cn
 
 ## 🔧 技术栈
 
-- **编程语言**：Python、C/C++、Java、JavaScript、R
-- **框架与库**：React、Django、TensorFlow、SpringBoot
+- **编程语言**：Java、C/C++、Python、JavaScript
+- **框架与库**：SpringBoot、React
 - **工具与平台**：GitHub、Gitee
 
 ## 🚀 主要项目
